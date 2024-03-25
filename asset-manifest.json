@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7d569bd6.css",
+    "main.js": "/portfolio/static/js/main.57700098.js",
+    "static/js/787.5c0b2d12.chunk.js": "/portfolio/static/js/787.5c0b2d12.chunk.js",
+    "static/media/YT.png": "/portfolio/static/media/YT.4f5613895d483675d999.png",
+    "static/media/SoundSwipe.png": "/portfolio/static/media/SoundSwipe.b3d922dd701edc90d3a8.png",
+    "static/media/logo.svg": "/portfolio/static/media/logo.68b100788ce6cb2a7d4982c9cc901df9.svg",
+    "static/media/Birthday.png": "/portfolio/static/media/Birthday.b19305631640eca447be.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/CartApp.png": "/portfolio/static/media/CartApp.c9265e621707b841bad4.png",
+    "static/media/Algorithm.png": "/portfolio/static/media/Algorithm.a162f25fa40760e391d6.png",
+    "static/media/bascik.pdf": "/portfolio/static/media/bascik.7cba09017176f9df2de8.pdf",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.7d569bd6.css.map": "/portfolio/static/css/main.7d569bd6.css.map",
+    "main.57700098.js.map": "/portfolio/static/js/main.57700098.js.map",
+    "787.5c0b2d12.chunk.js.map": "/portfolio/static/js/787.5c0b2d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d569bd6.css",
+    "static/js/main.57700098.js"
+  ]
+}

@@ -37,10 +37,10 @@ function App() {
         <Routes>
           <Route path="portfolio/" element={<Home />} />
           <Route path="Portfolio/" element={<Home />} />
-          <Route path="Portfolio/project" element={<Projects />} />
-          <Route path="Portfolio/about" element={<About />} />
-          <Route path="Portfolio/resume" element={<Resume />} />
-          <Route path="*" element={<Navigate to="/"/>} />
+          <Route path="project" element={<Projects />} />
+          <Route path="about" element={<About />} />
+          <Route path="resume" element={<Resume />} />
+          <Route path="*" element={<Navigate to="/Portfolio"/>} />
         </Routes>
         <Footer />
       </div>

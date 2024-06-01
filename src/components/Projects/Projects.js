@@ -5,6 +5,7 @@ import Particle from "../Particle";
 
 import Algorithm from "../../Assets/Projects/Algorithm.png";
 import Birthday from "../../Assets/Projects/Birthday.png";
+import Viral from "../../Assets/Projects/Viral.png";
 import CartApp from "../../Assets/Projects/CartApp.png";
 import SoundSwipe from "../../Assets/Projects/SoundSwipe.png";
 import YT from "../../Assets/Projects/YT.png";
@@ -24,7 +25,7 @@ function Projects() {
 
         <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={YT}
+              imgPath={Viral}
               isBlog={false}
               title="ViralClothes (NextJS app)"
               description="NextA JS app for finding new clothing trends"

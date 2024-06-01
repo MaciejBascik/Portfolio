@@ -21,7 +21,7 @@ function Home2() {
             <p className="home-about-body">
               I fell in love with programming... 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in tech like
               <i>
                 <b className="purple"> ReactJS, Javascript and CSS </b>
               </i>
@@ -29,7 +29,7 @@ function Home2() {
                 I have learnt backend also, Im fluent in MongoDB, Nodejs/ExpressJS
               <br />
               <br />
-              Currently I work commercial as Wordpress Developer at PapillonMedia, but I look for new challenges
+              Currently I work commercial as Frontend Developer at PapillonMedia, but I am currently looking for new challenges
               <br />
               <br />
               My field of Interest's are building new &nbsp;
@@ -52,7 +52,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js</b>
+                <b className="purple"> Next.js</b>
               </i>
             </p>
           </Col>

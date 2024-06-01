@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Maciej Baścik </span>
             from <span className="purple"> Tychy, Poland</span>
             <br />
-            I am currently employed as a wordpress developer at PapillonMedia.
+            I am currently employed as a frontend developer at PapillonMedia.
             <br />
             I am currently a Computer Science student with huge ambition.
             <br />

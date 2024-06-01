@@ -21,6 +21,18 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={YT}
+              isBlog={false}
+              title="ViralClothes (NextJS app)"
+              description="NextA JS app for finding new clothing trends"
+              ghLink="https://github.com/MaciejBascik/ViralClothes"
+              demoLink="https://viralclothes.vercel.app/"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={YT}
@@ -54,27 +66,9 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={CartApp}
-              isBlog={false}
-              title="Small Cart"
-              description="Small ReactJs  application simulation of shopping."
-              ghLink="https://github.com/MaciejBascik/CartApp"
-              demoLink="https://maciejbascik.github.io/CartApp/"
-            />
-          </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={Birthday}
-              isBlog={false}
-              title="BirthdayCelebration"
-              description="Small ReactJS app showing who is celebrating birthday today. App allows to add new people."
-              ghLink="https://github.com/MaciejBascik/BirthDayApp"
-              demoLink="maciejbascik.github.io/BirthDayApp/" 
-            />
-          </Col>
+
+         
         </Row>
       </Container>
     </Container>
